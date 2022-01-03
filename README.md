@@ -1,12 +1,9 @@
-# ELME TABASSUM
+## Contact
 
-Address: Emil Wolff Haus, Kaulbauchstraße 19, 22607 Hamburg, Germany
-
-[Email: e.t.shorna@gmail.com](mailto:e.t.shorna@gmail.com)
-
-Mobile: +4917676867436
-
-[linkedin.com/in/etabassum](linkedin.com/in/etabassum)
+Emil Wolff Haus, Kaulbauchstraße 19, 22607 Hamburg, Germany
+<br>[Email: e.t.shorna@gmail.com](mailto:e.t.shorna@gmail.com)
+<br>Mobile: +4917676867436
+<br>[linkedin.com/in/etabassum](linkedin.com/in/etabassum)
 
 ## Details
 
@@ -23,19 +20,15 @@ Date of Birth: 28.12.1995
 ### Master of Science
 
 University of Hamburg, Hamburg, Germany
-
-Molecular Plant Science
-
-From October 2019 to Present
+<br>Molecular Plant Science
+<br>From October 2019 to Present
 
 ### Bachelor of Science
 
 Shahjalal University of Science & Technology (SUST),
 Sylhet, Bangladesh
-
-Major in Genetic Engineering and Biotechnology
-
-From April 2014 to June 2018
+<br>Major in Genetic Engineering and Biotechnology
+<br>From April 2014 to June 2018
 
 ## Awards
 
