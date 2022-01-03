@@ -2,11 +2,11 @@
 
 Address: Emil Wolff Haus, Kaulbauchstraße 19, 22607 Hamburg, Germany
 
-Email: e.t.shorna@gmail.com
+[Email: e.t.shorna@gmail.com](mailto:e.t.shorna@gmail.com)
 
 Mobile: +4917676867436
 
-linkedin.com/in/etabassum
+[linkedin.com/in/etabassum](linkedin.com/in/etabassum)
 
 ## Details
 
