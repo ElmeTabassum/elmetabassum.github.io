@@ -78,7 +78,6 @@ Research Initiative <br> 2016 – 2018
 Key tasks: Worked as the treasurer for “Shyama” (A
 dance drama)
 
-
 • 2015-2017 Volunteer at Britter Baire, a voluntary
 organization
 2012-2015
