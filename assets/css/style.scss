@@ -3,8 +3,13 @@
 
 @import "{{ site.theme }}";
 
+header {
+    height: 76px;
+}
+
 #banner {
     display: flex;
+    margin-right: -100px;
 }
 
 #photo {
