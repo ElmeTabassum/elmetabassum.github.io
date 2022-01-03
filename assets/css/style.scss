@@ -16,10 +16,11 @@ header {
 #banner {
     display: flex;
     margin-right: -145px;
+
+    #photo {
+        height: 150px;
+        position: relative;
+        margin-left: 91px;
+    }
 }
 
-#photo {
-    height: 150px;
-    position: relative;
-    margin-left: 91px;
-}
