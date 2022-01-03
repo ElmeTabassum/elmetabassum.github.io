@@ -8,6 +8,22 @@ Mobile: +4917676867436
 
 linkedin.com/in/etabassum
 
+## Details
+
+Date of Birth: 28.12.1995
+
+Nationality: Bangladeshi
+
+Marital status: Single
+
+English: Fluent, C1
+
+German: Intermediate
+
+Bengali: Mother Language
+
+Hindi: Fluent (spoken)
+
 ## Education
 
 ### Master of Science
@@ -18,7 +34,54 @@ Molecular Plant Science
 
 From October 2019 to Present
 
+### Bachelor of Science
 
+Shahjalal University of Science & Technology (SUST),
+Sylhet, Bangladesh
+
+Major in Genetic Engineering and Biotechnology
+
+From April 2014 to June 2018
+
+## Awards
+
+* Best Idea Presentation Award at BABG National Congress 2017
+
+* Best Poster Presentation Award at 31 BSM Annual Conference, 2018
+
+## Projects and Work Experience
+
+* Internship in the department of Plant Biochemistry and Infection Biology, University of Hamburg
+
+* Internship in the department of Developmental Biology, University of Hamburg
+
+* Working Student at Department of Developmental Biology, University of Hamburg
+
+* Research Assistant in “Establishment of natural stock assessment system for Hilsa shad,
+Tenualosa ilisha in Bangladesh using molecular genetic approaches”
+
+* Bachelor thesis on “RAPD Genotyping of Hilsha Shad, Tenualosa ilisha Collected from Marine
+and Freshwater Habitats”
+
+* “Subtractive genomics approach for identifying potential therapeutic drug targets in Proteus
+mirabilis”
+
+* “Insilico analysis of structural and functional changes of EGFR protein caused by damaging
+SNPs”
+
+## Extracurricular skills
+
+* Advance learner at School of Molecular Biology at CANSi
+Research Initiative <br> 2016 – 2018
+
+* Member at Shikor (A voluntary cultural organization)
+Key tasks: Worked as the treasurer for “Shyama” (A
+dance drama)
+
+
+• 2015-2017 Volunteer at Britter Baire, a voluntary
+organization
+2012-2015
 You can use the [editor on GitHub](https://github.com/ElmeTabassum/elmetabassum.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
