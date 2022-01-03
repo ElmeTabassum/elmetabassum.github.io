@@ -11,18 +11,12 @@ Mobile: +4917676867436
 ## Details
 
 Date of Birth: 28.12.1995
-
-Nationality: Bangladeshi
-
-Marital status: Single
-
-English: Fluent, C1
-
-German: Intermediate
-
-Bengali: Mother Language
-
-Hindi: Fluent (spoken)
+<br>Nationality: Bangladeshi
+<br>Marital status: Single
+<br>English: Fluent, C1
+<br>German: Intermediate
+<br>Bengali: Mother Language
+<br>Hindi: Fluent (spoken)
 
 ## Education
 
