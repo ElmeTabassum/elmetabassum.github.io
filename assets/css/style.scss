@@ -32,3 +32,8 @@ header {
     }
 }
 
+@media print {
+    #banner {
+      display: none;
+    }
+  }
