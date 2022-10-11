@@ -36,4 +36,12 @@ header {
     #banner {
       display: none;
     }
+
+    header {
+        box-shadow: none;
+        p {
+            color: black;
+            text-shadow: none;
+        }
+    }
   }
